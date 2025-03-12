@@ -5,7 +5,7 @@ conn-mapping-ormQuery-Link
 
 2) Mapping - one to one and many to one - img
 
-3) Orm - query and Link
+3) Orm - query and Link  - img
 
 - Zip file For starter
 
